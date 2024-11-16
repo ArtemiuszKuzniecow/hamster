@@ -1,0 +1,11 @@
+<svg width="22" height="22" viewBox="0 0 22 22" id="meatballs" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="11.0007" cy="10.9998" r="0.916666" transform="rotate(-90 11.0007 10.9998)"
+        stroke="white" stroke-width="1.8103" stroke-linecap="round" />
+    <ellipse cx="11.0007" cy="16.5001" rx="0.916667" ry="0.916666"
+        transform="rotate(-90 11.0007 16.5001)" stroke="white" stroke-width="1.8103"
+        stroke-linecap="round" />
+    <ellipse cx="11.0007" cy="5.49996" rx="0.916667" ry="0.916666"
+        transform="rotate(-90 11.0007 5.49996)" stroke="white" stroke-width="1.8103"
+        stroke-linecap="round" />
+</svg>
